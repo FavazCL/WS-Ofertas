@@ -4,7 +4,7 @@ En este repositorio encontrará toda la información relacionadas a ofertas de t
 
 1. **Chiletrabajos.cl** - OK
 
-2. **Laborum.cl** - EN PROCESO
+2. **Laborum.cl** - OK
 
 Se almacenaran de la siguiente manera:
 
@@ -14,6 +14,6 @@ La extracción se realizará automaticamente en los siguientes horarios:
 
 * **19:30** > Chiletrabajos.cl > *Esto se debe a que la zona horaria del portal no es la de "America/Santiago" y existen varias horas de diferencia.*
 
-* **XX:XX** > Laborum.cl > *POR DEFINIR*
+* **23:25** > Laborum.cl 
 
 Para poder visualizar de mejor manera los archivos **.json** puede utilizar esta web: https://jsonformatter.curiousconcept.com/
