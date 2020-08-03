@@ -6,9 +6,7 @@ En este repositorio encontrará toda la información relacionadas a ofertas de t
 
 2. **Laborum.cl** - OK
 
-3. **Computrabajo.cl** - PRONTO
-
-4. **indeed** - EN PROCESO
+3. **bne.cl** - EN PROCESO
 
 Se almacenaran de la siguiente manera:
 
