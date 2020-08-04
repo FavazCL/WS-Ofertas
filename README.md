@@ -16,8 +16,8 @@ La extracción se realizará automaticamente en los siguientes horarios:
 
 * **19:30** > Chiletrabajos.cl > *Esto se debe a que la zona horaria del portal no es la de "America/Santiago" y existen varias horas de diferencia.*
 
-* **23:25** > Laborum.cl 
+* **22:30** > Laborum.cl 
 
-* **23:45** > Bne.cl
+* **23:30** > Bne.cl
 
 Para poder visualizar de mejor manera los archivos **.json** puede utilizar esta web: https://jsonformatter.curiousconcept.com/
