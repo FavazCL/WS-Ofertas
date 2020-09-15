@@ -20,6 +20,8 @@ La extracción se realizará automaticamente en los siguientes horarios:
 
 * **17:45** > Bne.cl
 
-* **17:45** > Elaboración de los consolidados.
+Luego de las extracciones se hace un consolidado de todas las ofertas el día actual, y se almacenan en:
+
+> consolidado/*consolidado-fecha*
 
 Para poder visualizar de mejor manera los archivos **.json** puede utilizar esta web: https://jsonformatter.curiousconcept.com/
