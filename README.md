@@ -14,7 +14,7 @@ Se almacenaran de la siguiente manera:
 
 La extracción se realizará automaticamente en los siguientes horarios:
 
-* **17:45** > Chiletrabajos.cl > *Esto se debe a que la zona horaria del portal no es la de "America/Santiago" y existen varias horas de diferencia.*
+* **17:45** > Chiletrabajos.cl
 
 * **17:45** > Laborum.cl 
 
