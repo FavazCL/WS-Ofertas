@@ -24,4 +24,9 @@ Luego de las extracciones se hace un consolidado de todas las ofertas el día ac
 
 > consolidado/*consolidado-fecha*
 
+Finalmente a partir de los consolidados se crea un acumulado de estos, y se almacena en:
+
+> acumulado/*acumulado-fecha*
+
+Para poder visualizar los datos de manera grafica visite: https://empleos.herokuapp.com/
 Para poder visualizar de mejor manera los archivos **.json** puede utilizar esta web: https://jsonformatter.curiousconcept.com/
